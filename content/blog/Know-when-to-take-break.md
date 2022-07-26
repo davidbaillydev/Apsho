@@ -1,14 +1,14 @@
 ---
-title: "Know when to take break"
-date: 2020-09-04T20:18:07+06:00
+title: Know when to take break
+date: 2020-09-04T20:18:07.000+06:00
 featureImage: images/blog/blog-post-6.jpg
 author: Filthy Frank
 authorThumb: images/client/client-2.png
+
 ---
+La façon dont nous travaillons a beaucoup changé et la plupart des gens n'ont d'autre choix que de passer au travail à domicile. Mais même avant la pandémie, de plus en plus de personnes disaient adieu à leur pénible trajet quotidien pour devenir des indépendants et des télétravailleurs. Grâce à des technologies en constante évolution telles que Skype, Zoom, Facetime, Google Hangouts, Slack et l'informatique en nuage, il n'est plus nécessaire d'être dans un bureau pour être productif. En fait, la plupart des tâches peuvent être effectuées tout aussi efficacement depuis la maison.
 
-A lot has changed about how we work, and most people have no choice but to transition to working from home. But even before the pandemic, an increasing number of people bid goodbye to their onerous commute to become freelancers and telecommuters. Thanks to ever-evolving technologies such as Skype, Zoom, Facetime, Google Hangouts, Slack, and cloud computing, it’s no longer necessary to be in an office to be productive. In fact, most tasks can be done just as effectively from home.
-
-Working from home can be one of the greatest perks of doing freelance work. But as appealing as remote work sounds, it comes with several challenges. What if you need something important from the office that you have no access to? What if loneliness takes over and you experience time management problems? What if you lose connection with colleagues? What if you’re overwhelmed by other home-related distractions like family members, pets, and electronics?
+Le travail à domicile peut être l'un des plus grands avantages du travail en freelance. Mais aussi attrayant que puisse paraître le travail à distance, il s'accompagne de plusieurs défis. Que se passe-t-il si vous avez besoin de quelque chose d'important au bureau et que vous n'y avez pas accès ? Que faire si la solitude prend le dessus et que vous avez des problèmes de gestion du temps ? Que faire si vous perdez le contact avec vos collègues ? Et si vous êtes submergé par d'autres distractions liées à la maison, comme les membres de la famille, les animaux domestiques et les appareils électroniques ?
 
 ![blog image](/images/blog/single-blog-1.jpg)
 
@@ -18,11 +18,11 @@ Download Experiment. Fail. Repeat and discover the secrets of the universe! Or, 
 
 ## Working from Home: Healthy Practices to Stay Productive
 
-- Setting a Healthy Routine
-- Proper Ergonomics
-- Exercise Regularly
-- Find Work-Life Balance When Working from Home
-- Dealing with Family Members and Coworkers
+* Setting a Healthy Routine
+* Proper Ergonomics
+* Exercise Regularly
+* Find Work-Life Balance When Working from Home
+* Dealing with Family Members and Coworkers
 
 ![blog image](/images/blog/single-blog-4.jpg)
 
