@@ -1,5 +1,5 @@
 ---
-title: Know when to take break
+title: Savoir quand faire une pause
 date: 2020-09-04T20:18:07.000+06:00
 featureImage: images/blog/blog-post-6.jpg
 author: Filthy Frank
